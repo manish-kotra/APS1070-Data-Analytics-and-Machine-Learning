@@ -1,7 +1,6 @@
-# Course Name: Data Analytics and Machine Learning
+# Data Analytics and Machine Learning
 
-## About the Course
-This repository contains all the assignments for the APS1070 course at the University of Toronto. The course covers various topics in data analytics and machine learning, aiming to provide students with practical skills in analyzing data and building machine learning models.
+This repository contains all the work for the APS1070 course at the University of Toronto. The course covers various topics in data analytics and machine learning, aiming to provide students with practical skills in analyzing data and building machine learning models.
 
 ## Projects Overview
 Here, you'll find projects that cover the following topics:
